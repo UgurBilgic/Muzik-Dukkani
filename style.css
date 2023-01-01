@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ilk {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(15, 4, 4);
+    height: 4rem;
+}
+
+.ilk li {
+    float: left;
+    color: azure;
+}
+
+.ilk li a {
+    padding: 18px 18px;
+    display: block;
+    color: white;
+    text-decoration:none
+}
+
+.ilk li a:hover {
+    color: rgb(53, 42, 213);
+}
+
+.ilk .buyuk {
+    font-size: 23px;
+    margin-right: 40px;
+}
+
+.baslik {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 2em;
+    color: rgb(156, 23, 120);
+}
+
+.yazi {
+    text-align: center;
+    margin: 10px 130px;
+}
+
+.kisim-2 {
+    color: rgb(199, 219, 46);
+    text-align: center;
+    padding-top: 30px;
+}
+
+.iki {
+    text-align: center;
+    padding-top: 20px;
+    list-style-position: inside;
+}
+
+.hakk {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: blue;
+    margin: 30px;
+    margin-left: 44%;
+    margin-right: 44%;
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 200px;
+}
+
+.hakk a {
+    color: rgb(255, 255, 255);
+    text-decoration:none
+}
+
+.hakk a:hover {
+    color: rgb(177, 195, 195);
+}
+
+html {
+    background-color: rgb(202, 204, 227);
+}
+
+.hakkimiz {
+    font-size: 2em;
+    text-align: center;
+    margin: 30px;
+    color: purple;
+}
+
+.vizyon {
+    margin: 30px;
+    margin-left: 40px;
+    
+}
+
+.vizyon h2 {
+    color: darkgoldenrod;
+}
+
+.misyon {
+    margin-right: 30px;
+    margin-left: 40px;
+}
+
+.misyon h2 {
+    color: darkgoldenrod;
+}
+
+.yet {
+    text-align: center;
+    margin: 5em;
+    font-size: 40px;
+    font-family: sans-serif;
+}
